@@ -4,6 +4,11 @@ title: Impressum
 permalink: /impressum/
 ---
 
+
+!!! ACHTUNG DIES IST EINE TESTHOMEPAGE !!!
+
+BITTE AUF http://planraum.org GEHEN; DIESE SEITE BEFINDET SICH IM AUFBAU!!!
+
 Angaben gemäß § 5 TMG:
 
 planraum e. V.
@@ -12,10 +17,9 @@ Auweg 42a
 93055 Regensburg
 Vertreten durch:
 
-Waldemar Sessler,
-1. Vorstand planraum e.V.
-Simeon Felis
-2. Vorstand planraum e.V.
+Waldemar Sessler, 1. Vorstand planraum e.V.
+
+Simeon Felis 2. Vorstand planraum e.V.
 
 http://planraum.org
 
