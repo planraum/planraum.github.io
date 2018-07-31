@@ -1,12 +1,22 @@
 ---
 layout: page
-title: Treffen
-permalink: /treffen/
+title: Kontakt
+permalink: /kontakt/
 ---
 
-### Treffen
+### Kontakt
 
-<iframe src="https://docs.google.com/spreadsheet/embeddedform?formkey=dGV6ejJkbzNqZzNIQzZZOFREOHMyQVE6MQ" marginheight="0" marginwidth="0" width="560" height="1500" frameborder="0">Loading...</iframe>
+email: kontakt at planraum dot org
+
+tel: 0941 56 95 8086
+
+### Bankverbindung:
+
+* Konto Nr.: 8212659700
+* BLZ.: 43060967
+* IBAN: DE84430609678212659700
+* BIC: GENODEM1GLS
+* GLS Gemeinschaftsbank eG, Bochum
 
 ### Terminkalender
 

@@ -5,55 +5,49 @@ permalink: /impressum/
 ---
 
 
-# !!! ACHTUNG DIES IST EINE TESTHOMEPAGE !!!
-
-BITTE AUF http://planraum.org GEHEN; DIESE SEITE BEFINDET SICH IM AUFBAU!!!
-
 # Angaben gemäß § 5 TMG:
 
-planraum e. V.
+planraum e. V.  
+Auweg 42a  
+93055 Regensburg  
 
-Auweg 42a
-93055 Regensburg
-Vertreten durch:
+### Vertreten durch:
 
-Waldemar Sessler, 1. Vorstand planraum e.V.
-
-Simeon Felis 2. Vorstand planraum e.V.
+* Waldemar Sessler (Vorstandsvorsitz)
+* Claudiu Covaci (Schatzmeister)
+* Martin Hofmann
+* Florian Olbrich 
 
 http://planraum.org
 
-# Kontakt:
+### Kontakt:
 
-Telefon (planraum e.V.): 0941 5695 8086
-
-E-Mail: info@planraum.org
+| Telefon (planraum e.V.)  | 0941 5695 8086    |
+| E-Mail                   | info@planraum.org |
 
 # Registereintrag:
 
-Eintragung im Vereinsregister.
-Registergericht:Regensburg
-Registernummer: 200760
-
-# Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
-
-Waldemar Sessler 
+Eintragung im Vereinsregister.  
+Registergericht: Regensburg  
+Registernummer: 200760  
 
 # Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
 
 Waldemar Sessler
+
+- - -
 
 # Datenschutz
 
 Verantwortlicher für die Erhebung, Verarbeitung und Nutzung Ihrer personenbezogenen
 Daten im Sinne von Art. 4 Nr. 7 DSGVO ist
 
-planraum e. V.
-Auweg 42 a
-D-93055 Regensburg
+planraum e. V.  
+Auweg 42 a   
+D-93055 Regensburg   
 Germany
 
-## Betroffenenrechte: Rechte auf Auskunft, Berichtigung, Sperre, Löschung und Widerspruch
+### Betroffenenrechte: Rechte auf Auskunft, Berichtigung, Sperre, Löschung und Widerspruch
 
 Sie haben das Recht, auf Antrag unentgeltlich eine Auskunft über die bei uns
 gespeicherten personenbezogenen Daten anzufordern und/oder eine Berichtigung,
