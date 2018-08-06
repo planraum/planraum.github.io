@@ -17,7 +17,7 @@ Indem die Öffentlichkeit in Veranstaltungen einbezogen wird, soll sie einen umf
 
 planraum fördert Kreativität einerseits durch das Schaffen einer anregenden Kaffeehaus-Atmosphäre in der sich frei ausgetauscht werden kann, andererseits durch das Bereitstellen eines Werkbereichs, worin auch gröbere Arbeiten stattfinden und mit Farbe gekleckert werden darf. 
 
-| ![Löten]({{ "/assets/2018/soldering-workshop-summer2018.jpg" | absolute_url }}){:width="500px"} | ![RepRap]({{ "/assets/planraum-oszis.png" | absolute_url }}){:width="500px"} |
+| ![Löten]({{ "/assets/2018/soldering-workshop-summer2018.jpg" }}){:width="500px"} | ![RepRap]({{ "/assets/planraum-oszis.png" }}){:width="500px"} |
 |:---:|:---:|:---:|
 | Workshops zum Mitmachen | Spaß am Gerät |
 
