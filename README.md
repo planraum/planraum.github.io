@@ -1,6 +1,6 @@
 # Planraum website
 
-This repository hold the planraum website.
+Code for [https://planraum.de](https://planraum.de)
 
 TravisCI Status: [![Build Status](https://travis-ci.com/planraum/planraum.github.io.svg?branch=master)](https://travis-ci.com/planraum/planraum.github.io)
 
@@ -19,7 +19,11 @@ bundle install
 
 ## Adding new content
 
-Adding new content requires to add a new feature branch and create a pull request. This pull request has to be accepted by a Planraum colleague. Don't worry, it's not that complicated!
+* Create a feature branch (master branch is protected)
+* Make your changes
+* push & create a pull request
+
+Code:
 
 ```sh
 # Assuming you're in branch master
@@ -34,4 +38,4 @@ git commit -m "Describe your change in the message"
 git push --set-upstream origin $BRANCH_NAME
 ```
 
-Now open a pull request via [the GitHub compare function]{https://github.com/planraum/planraum.github.io/compare}. Select your branch on the right side. Verify your changes. And click on "Create Pull Request".
+Open a pull request via [the GitHub compare function](https://github.com/planraum/planraum.github.io/compare). Select your branch on the right side. Verify your changes. And click on "Create Pull Request".
