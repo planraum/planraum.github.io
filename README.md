@@ -2,7 +2,7 @@
 
 This repository hold the planraum website.
 
-TravisCI Status: [![Build Status](https://travis-ci.com/iptizer/planraum.github.io.svg?branch=master)](https://travis-ci.com/iptizer/planraum.github.io)
+TravisCI Status: [![Build Status](https://travis-ci.com/planraum/planraum.github.io.svg?branch=master)](https://travis-ci.com/planraum/planraum.github.io)
 
 ## Prerequisits
 
