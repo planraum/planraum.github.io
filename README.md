@@ -2,6 +2,8 @@
 
 This repository hold the planraum website.
 
+TravisCI Status: [![Build Status](https://travis-ci.com/iptizer/planraum.github.io.svg?branch=master)](https://travis-ci.com/iptizer/planraum.github.io)
+
 ## Prerequisits
 
 * Install ruby & gem & bundler
