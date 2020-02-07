@@ -9,9 +9,10 @@ Adding new content requires to add a new feature branch and create a Pull Reques
 ```sh
 # Assuming you're in branch master
 # Create a branch with a name that describes your changes
-git checkout -b my_cool_new_content
+BRANCH_NAME="my_cool_new_content"
+git checkout -b $BRANCH_NAME
 # Make your changes and add those to the repository afterwards
 git add .
 git commit -m "Describe your change in the message"
-git push
+git push --set-upstream origin $BRANCH_NAME
 ```
