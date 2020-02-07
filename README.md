@@ -1,10 +1,10 @@
 # Planraum website
 
-Code for [https://planraum.de](https://planraum.de)
+Code for [http://planraum.org](http://planraum.org)
 
 TravisCI Status: [![Build Status](https://travis-ci.com/planraum/planraum.github.io.svg?branch=master)](https://travis-ci.com/planraum/planraum.github.io)
 
-## Prerequisits
+## Prerequisites
 
 * Install ruby & gem & bundler
 * Install gems from Gemfile
@@ -16,6 +16,7 @@ brew install ruby
 bundle update
 bundle install
 ```
+
 
 ## Adding new content
 
