@@ -23,7 +23,28 @@ bundle install
 * Make your changes
 * push & create a pull request
 
-Code:
+### Online editing
+All editing can be done online via the Github website.
+
+Step 1: Create a new branch
+Type your branch name into the field in the branch selector. 
+![Branch selector](tutorial_images/create_branch.png)
+
+Step 2: Change a file
+Open the file and click the edit button.
+![Edit button](tutorial_images/edit_file.png)
+
+Step 3: Edit file
+Text is in markdown format. Most thing are pretty self-explanatory if you look at an existing file. A good reference is the [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+![Editor](tutorial_images/editor.png)
+
+Step 4: Commit file
+At the bottom of the page there is the option to commit changes. Please add at least a short description of the changes.
+![Commit](tutorial_images/commit.png)
+
+
+
+### Command line
 
 ```sh
 # Assuming you're in branch master
