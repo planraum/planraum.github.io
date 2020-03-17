@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Spanneisen fräsen"
-date:   2018-05-16 19:32:35 +0200
+date:   2020-03-01 19:32:35 +0200
 categories: general 
 ---
 Beim letzten Montagstreffen haben wir für die CNC-Fräse ein paar Spanneisen (oder auch Spannpratzen) gefräst. Die Funktion dieser Teile ist es Werkstücke sicher auf dem Frästisch zu befestigen. Hier ein Bild eines kommerziellen Produkts im Einsatz:
