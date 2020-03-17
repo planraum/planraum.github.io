@@ -7,7 +7,7 @@ layout: home
 
 planraum ist ein organisatorisches Rahmenwerk zum Entwickeln und Voranbringen von Ideen und Vorstellungen. Sein Rückgrat ist eine stabile Gemeinschaft aus Enthusiasten verschiedenster Themengebiete, in welcher jeder sein Fachwissen den Anderen näher bringt.
 
-planraum ist es besonders wichtig, eine gemeinsame Schaffensbasis für Menschen unterschiedlicher Fach- und Interessensbereiche zu bieten. _Innerhalb von planraum treffen derzeit Ingenieure, Informatiker, Mathematiker, Physiker, Kuenstler, Designer, Filmemacher, Kulturwissenschaftler, Medienwissenschaftler, Psychologen und Ökologen aus Regensburg aufeinander._
+planraum ist es besonders wichtig, eine gemeinsame Schaffensbasis für Menschen unterschiedlicher Fach- und Interessensbereiche zu bieten. _Innerhalb von planraum treffen derzeit Ingenieure, Informatiker, Mathematiker, Physiker, Künstler, Designer, Filmemacher, Kulturwissenschaftler, Medienwissenschaftler, Psychologen und Ökologen aus Regensburg aufeinander._
 
 Im Rahmen von regelmäßigen Treffen, werden interdisziplinäre Kollaborationen angestoßen und Projekte initiiert.
 
