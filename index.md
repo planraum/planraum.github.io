@@ -19,6 +19,6 @@ planraum fördert Kreativität einerseits durch das Schaffen einer anregenden Ka
 
 | ![Löten]({{ "/assets/2018/soldering-workshop-summer2018.jpg" }}){:width="400px"} | ![RepRap]({{ "/assets/planraum-oszis.jpg" }}){:width="400px"} |
 |:---:|:---:|:---:|
-| Workshops zum Mitmachen | Spaß am Gerät |
+| Workshops zum Mitmachen | Feintuning |
 
 > Wir suchen immer Themen und Interessen zu Workshops. Interessenten können sich im [Formular eintragen](http://workshops.planraum.org).
