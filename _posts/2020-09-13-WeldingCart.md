@@ -7,7 +7,7 @@ categories: general
 
 Während der Corona-Beschränkungen des öffentlichen Betriebs wurden die Räumlichkeiten des planraum e.V. dazu genutzt, einen Schweißwagen zu bauen. Dieser beherbergt das nötige Zubehör um E-Hand- und WIG-Schweißen zu können.
 
-### Die Anforderungen/Platz für:
+### Die Anforderungen/Platz für
   * Gasflasche Argon 20l
   * 5 Hülsen für Fülldrähte (Stahl/V2A/Al/CuSi)
   * E-Hand- und WIG-Schweißgerät
@@ -19,7 +19,7 @@ Während der Corona-Beschränkungen des öffentlichen Betriebs wurden die Räuml
   * Handschuhe
   * Schlauchpakete
 
-### Materialplanung:
+### Materialplanung
 Der nächste Schritt war die grobe Planung. Hierzu wurde eine Skizze von Hand in OpenSCAD übertragen, um eine Materialliste zu erstellen:  
 ![Schweisswagen]({{ "/assets/Schweisswagen_farbig.png" }})
 
@@ -34,16 +34,14 @@ Dadurch ergeben sich folgende Maße:
 Gesamt gibt das eine Menge von rund 13 Meter Vierkantrohr!
 Im Endeffekt wurden es dann aber 16 Meter, da Feinheiten wie etwa die Rad- und Rollenaufnahme und die Streben für die Gasflaschenhalterung, nicht explizit geplant wurden (Don't mess with [Pareto](https://de.wikipedia.org/wiki/Paretoprinzip)).
 
-### Umsetzung:  
+### Umsetzung  
 Der Wagen wurde nach und nach im WIG-Schweißverfahren zusammengefügt. Dazu gibt es leider keine Bilder. Das hätte man allerdings auch mit jedem anderen Schweißverfahren machen können. Wichtig ist vor allem die Maßhaltigkeit und die Winkeltreue. So wurde zunächst der äußere Rahmen gesetzt. Dabei wurden die Verbindungsstreben, die auf Halber Strecke später eingeschweißt werden, als Lehre verwendet. Somit bekommt man die trotz Wärmeverzug später noch rein und alles hat höchstens nen halben Millimeter Toleranz.  
 Konserviert wurde der Stahlkäfig durch das konsequente Zuschweißen jeglicher offenen Rohre. Zwei Schichten Rostschutzgrundierung und eine Schicht Farblack runden diesen Vorgang ab.  
 Die Böden sind aus gewachsten Regalbrettern aus dem Heimwerkermarkt. Diese sind auf vorher dafür als Halterung geschweißten Laschen geschraubt und geben Halt für einige zig Kilo Belastung.  
 
-### Resultat:
+### Resultat
 
 Der Schweißwagen kann sich sehen lassen. Sicherlich wären noch Schlauch- und Kabelhalter ein nettes Gimmick. Allerdings sollte der Wagen auch irgendwann fertig werden.
 ![Schweisswagen_fertig]({{ "/assets/Schweisswagen_fertig.jpg"  }})  
 
 PS: Keine Sorge, die Gasflasche wurde noch mit einer Kette gesichert. 
-
-_-jobstulus_
