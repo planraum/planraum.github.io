@@ -21,4 +21,3 @@ planraum fördert Kreativität einerseits durch das Schaffen einer anregenden Ka
 |:---:|:---:|:---:|
 | Workshops zum Mitmachen | Am Rad drehen |
 
-> Wir suchen immer Themen und Interessen zu Workshops. Interessenten können sich im [Formular eintragen](http://workshops.planraum.org).
